@@ -1,0 +1,14 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 50px;
+    background-color: rgb(114, 104, 154);
+}
+#inputForm {
+    margin-bottom: 20px;
+}
+
+ul {
+    list-style: none;
+    padding-inline-start: 0;
+}
